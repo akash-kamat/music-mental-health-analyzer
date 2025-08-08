@@ -370,7 +370,7 @@ with tab2:
         - **National Suicide Prevention Lifeline:** 988 (US)
         - **Crisis Text Line:** Text HOME to 741741
         - **International Association for Suicide Prevention:** https://www.iasp.info/resources/Crisis_Centres/
-        - **Mental Health America:** https://www.mhanational.org/finding-help
         
         **Remember:** Seeking help is a sign of strength, not weakness. 💪
         """)
+
