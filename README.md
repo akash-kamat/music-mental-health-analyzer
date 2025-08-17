@@ -2,6 +2,8 @@
 
 An interactive Streamlit dashboard that analyzes the relationship between music listening habits and mental health using machine learning. This project explores how music preferences, listening duration, and demographics correlate with depression indicators.
 
+App is live on : https://music-mental-health-analyzer.streamlit.app
+
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.28+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
